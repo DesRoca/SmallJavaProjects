@@ -1,0 +1,4 @@
+Mary Jones 1980 85000.0
+Tom Smith 1998 Math
+Henry Thomas 1978 75000.0
+Ken Rota 1996 CS
